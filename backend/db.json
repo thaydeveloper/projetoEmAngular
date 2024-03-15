@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Placa de Video Rtx 3090",
+      "price": 8000.0
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "price": 2800.0
+    },
+    {
+      "id": 5,
+      "name": "Caneta BIC Azul",
+      "price": 5.5
+    }
+  ]
+}
